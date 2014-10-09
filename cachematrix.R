@@ -20,7 +20,6 @@ makeCacheMatrix <- function(listData = matrix()) {
              getmean = getmean)
 }
 
-
 ## cacheSolve function computes the inverse of the matrix. If the inverse
 ## has alreayd been calculated then the cachesolve should retrive the inverse
 ## from the cache.
